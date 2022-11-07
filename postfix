@@ -1,0 +1,3 @@
+etc postfix main.cf
+
+myhostname = mail.waplz.com  #mail domain
